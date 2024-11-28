@@ -94,7 +94,6 @@ INPUT
 <img width="736" alt="Cuplikan layar 2024-11-28 225025" src="https://github.com/user-attachments/assets/17b6a93a-748b-4829-a0f4-6acd155ee215">
 <img width="744" alt="Cuplikan layar 2024-11-28 224931" src="https://github.com/user-attachments/assets/4158a138-6e2f-48d9-83f5-1293b36a19d2">
 <img width="472" alt="Cuplikan layar 2024-11-28 224945" src="https://github.com/user-attachments/assets/9719d113-1718-42f5-9ebf-47ed07e0d8d9">
-<img width="736" alt="Cuplikan layar 2024-11-28 225025" src="https://github.com/user-attachments/assets/4e89f834-1653-40f6-a64f-38c8cdd1d77e">
 
 OUTPUT:
 
